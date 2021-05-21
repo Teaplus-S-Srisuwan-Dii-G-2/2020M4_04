@@ -69,3 +69,8 @@ h1{
     margin-right: 2px;
 }
 
+@media screen and (max-width: 991) {
+    .card{
+        border: none;
+    }
+}
